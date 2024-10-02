@@ -44,3 +44,5 @@ Caption: A majestic mountain landscape with a sunset sky and a flowing river in 
 Fine-tuning the custom model with more advanced architectures.
 Exploring further integration with Stable Diffusion to improve image quality.
 Experimenting with larger datasets to enhance model generalization.
+
+### Sep 2024 - Oct 2024
