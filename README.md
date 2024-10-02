@@ -20,19 +20,25 @@ Key features of the Stable Diffusion model:
 Below are some sample outputs:
 
 Caption: A busy promenade where people gather
-<p float="left">
-  <img src="Output/(Actual) A busy promenade where people gatherng.png" alt="Actual"/>
-  <img src="results/stable_sample1.png" alt="Generated"/> 
+<p float ="left"> 
+  <img src="Output/(Actual) A busy promenade where people gather.PNG"/><figcaption>Actual from Dataset</figcaption>
+  <br><br><img src="Output/A busy promenade where people gather.PNG"/> <figcaption>Generated</figcaption>
 </p>
 
 Caption: A futuristic city with flying cars at night with neon lights
-
+<p align="center">
+  <img src="Output/A futuristic city with flying cars at night with neon lights.PNG"/>
+</p>
 
 Caption: A laughing robot in the sunset
-
+<p align="center">
+  <img src="Output/A laughing robot in the sunset.PNG"/>
+</p>
 
 Caption: A majestic mountain landscape with a sunset sky and a flowing river in the foreground and players playing soccer
-
+<p align="center">
+  <img src="Output/A majestic mountain landscape with a sunset sky and a flowing river in the foreground and players playing soccer.PNG"/>
+</p>
 
 ## Future Improvements
 Fine-tuning the custom model with more advanced architectures.
