@@ -1,7 +1,7 @@
 # Caption-to-Image-Generation
 
 ## Overview
-This project implements a caption-to-image generation model. Additionally, the project explores the application of the **Stable Diffusion** model—a powerful pre-trained  model—for comparison and potential enhancement. Stable Diffusion is known for generating high-quality images based on textual input by leveraging a diffusion process.
+This project implements a caption-to-image generation model to genrate images from custom captions. **Stable Diffusion** model—a powerful latent diffusion model, a kind of deep generative artificial neural network. Stable Diffusion is known for generating high-quality images based on textual input by leveraging a diffusion process.
 
 ## Dataset
 Used open-source **Flickr30k** dataset, which contains 31,000 images with five captions each, describing various scenes. 
